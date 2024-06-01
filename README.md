@@ -14,6 +14,13 @@ I created this small program for several reasons: for those like me who do not w
 4. **Check Models Online**: Checks the status of models online through a direct link to the Ollama library website.
 5. **View Command List**: Displays a list of available commands for Ollama, allowing the user to easily perform the desired operations.
 
+![Menu System tray](src/SystemTrayMenu.png)
+
+![Installed AI List](src/Installed_AI_List.png)
+
+![Update all AI models](src/Update_all_Ollama_Models_by_PowerShell.png)
+
+
 ## How to Use
 
 1. It can be placed and run from anywhere on the computer, no installation required.
