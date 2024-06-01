@@ -1,5 +1,8 @@
 # Ollama - Open WebUI Script
 
+You can download the "Ollama - Open WebUI Script.exe" for Windows from the [releases page](https://github.com/Special-Niewbie/Ollama-Open-WebUI-Script/releases).
+
+
 ## Overview
 
 Ollama - Open WebUI Script is a script program designed to facilitate the opening of Open WebUI in combination with Ollama and Docker. This script simplifies access to the Open WebUI interface with Ollama installed on a Windows system, providing additional features such as updating models already installed on the system, checking the status of models online (on the official Ollama website), displaying the list of available commands, and more.
