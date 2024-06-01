@@ -34,7 +34,9 @@ I created this small program for several reasons: for those like me who do not w
 
 As mentioned above, before using the program, ensure that Docker Desktop with the Open WebUI container and Ollama are installed on your operating system. Otherwise, the script will not function as expected.
 
-For more information and to contribute to the development, visit the project's GitHub repository: Ollama - Open WebUI Script.
+[Docker Site](https://www.docker.com/).
+[Ollama site](https://ollama.com/).
+[Open WebUI site](https://docs.openwebui.com/).
 
 ## Donation
 If you enjoy using this script and find it helpful and you have the possibility, please consider making a small donation to support the ongoing development of this and other projects. Your generosity is greatly appreciated!
